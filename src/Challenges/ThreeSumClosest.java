@@ -1,11 +1,13 @@
+package Challenges;
+
 import java.util.Arrays;
 
 public class ThreeSumClosest {
     // Problem: Find the triple with the sum closest to a given target; return that sum
 
-    // Applying similar theory to ThreeSum solution
+    // Applying similar theory to Challenges.ThreeSum solution
     // Brute force possible; complexity of O(n^3)
-    // Better solution, by same as ThreeSum, of O(n^2)
+    // Better solution, by same as Challenges.ThreeSum, of O(n^2)
 
     int[] nums;
     int target;

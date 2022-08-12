@@ -1,3 +1,5 @@
+package Challenges;
+
 public class ContainerWithMostWater {
     private int area;
     private int[] height;

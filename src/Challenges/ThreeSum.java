@@ -1,3 +1,5 @@
+package Challenges;
+
 import java.util.*;
 
 public class ThreeSum {

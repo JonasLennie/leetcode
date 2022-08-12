@@ -1,3 +1,5 @@
+package Challenges;
+
 import utils.ListNode;
 
 public class RemoveNthNodeFromEndOfList {

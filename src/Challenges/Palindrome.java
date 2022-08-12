@@ -1,3 +1,5 @@
+package Challenges;
+
 public class Palindrome {
     int mid;
     int maxIndex;

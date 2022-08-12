@@ -1,3 +1,5 @@
+package Challenges;
+
 public class Atoi {
     private int start;
     private int end;
