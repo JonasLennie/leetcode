@@ -1,4 +1,4 @@
-package Challenges;
+package uk.jlennie.leetcode.Challenges;
 
 public class Atoi {
     private int start;

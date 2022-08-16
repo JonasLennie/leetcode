@@ -1,4 +1,4 @@
-package utils;
+package uk.jlennie.leetcode.utils;
 
 public class ListNode {
     public int val;

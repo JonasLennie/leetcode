@@ -1,6 +1,6 @@
-package Challenges;
+package uk.jlennie.leetcode.Challenges;
 
-import utils.ListNode;
+import uk.jlennie.leetcode.utils.ListNode;
 
 public class RemoveNthNodeFromEndOfList {
     private ListNode head;
